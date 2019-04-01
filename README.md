@@ -1,3 +1,4 @@
+I want to learn something
 # mycode
 Learning to track my code
 New to python
