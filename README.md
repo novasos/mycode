@@ -5,3 +5,4 @@ New to python
 ### Prerequisites
 ##Built With
 ## AUthors
+* **Von Sosa** - *Initial work* [https://vonsosa.com/)
